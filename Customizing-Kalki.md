@@ -1,6 +1,6 @@
 ## Customizing Kalki. 
 
-As you can see, it's fairly easy to customize Kalki. A little knowledge of HTML and CSS helps, but isn't essential. You can learn enough to customize the front end to your liking quickly. 
+As you can see, it's fairly easy to customize Kalki. A little knowledge of HTML and CSS helps, but isn't essential. You can learn enough HTML to customize the front end quickly. 
 
 Look at this example:
 
