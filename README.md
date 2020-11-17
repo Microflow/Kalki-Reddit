@@ -1,6 +1,6 @@
 # Kalki-Reddit
 
-## A front-end Microfiance app written in Vue JS. 
+## A front-end Microfinance app written in Vue JS. 
 
 You can use Kalki-Reddit to display any three subreddits with decent colours. 
 
