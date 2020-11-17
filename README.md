@@ -14,9 +14,9 @@ https://codepen.io/Teeke/live/yLJwdyd
 
 The code is open-sourced under the MIT license, you can do anything you want with it. 
 
-To learn how to customize Kalki, please read this doc:
+To learn how to customize Kalki, [please read this doc](https://github.com/Microflow/Kalki-Reddit/blob/main/Customizing-Kalki).
 
-https://github.com/Microflow/Kalki-Reddit/blob/main/Customizing-Kalki
+
 
 
 
