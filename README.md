@@ -2,7 +2,7 @@
 
 ## A front-end Microfinance app written in Vue JS. 
 
-You can use Kalki-Reddit to display any three subreddits with decent colours. 
+You can use Kalki-Reddit to display any three subreddits with a different design from vanilla Reddit.  
 
 ### Example One: NaturePhoto. Homeless. FoodPantry. 
 
