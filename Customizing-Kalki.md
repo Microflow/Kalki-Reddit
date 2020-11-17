@@ -18,6 +18,29 @@ There are three panes, HTML, CSS and JS. To set Kalki to read any subreddit, you
     <subreddit name="nature"></subreddit>
     <subreddit name="gardening"></subreddit>
     
-You can set those subreddit names to any subreddit you like.
+You can set those subreddit names to any subreddit you like. Our new example is set to Aww, DIY and Space. 
+
+https://codepen.io/Teeke/pen/XWKGLBN
+
+## Changing the Header Pic
+
+If you have your own hosted picture, you can change the background-image property in the CSS. look for code like this:
+
+header {
+  background-image: url('https://assets.codepen.io/577362/abstract-house.jpeg');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  padding: 100px;
+  box-shadow: 0px 0px 9px 3px rgba(41,41,41,.25);
+  color: #ddd;
+  font-size: 40px;
+}
+
+and put your own hosted pic there. Be careful to leave the quotes and brackets around the pic. ('your-pic-here.jpeg');
+
+Voila:
+
+https://codepen.io/Teeke/pen/abZMgPy
+
         
 
