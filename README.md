@@ -16,6 +16,19 @@ The code is open-sourced under the MIT license, you can do anything you want wit
 
 To learn how to customize Kalki, [please read this doc](https://github.com/Microflow/Kalki-Reddit/blob/main/Customizing-Kalki).
 
+### Multiple Window Version
+
+You can add multiple windows easily. 
+
+https://codepen.io/Teeke/pen/gOMyYdx
+
+        <subreddit name="Aww"></subreddit>
+        <subreddit name="DIY"></subreddit>
+        <subreddit name="space"></subreddit>
+        <subreddit name="snackexchange"></subreddit>
+        <subreddit name="fitness"></subreddit>
+        <subreddit name="sports"></subreddit> 
+
 
 
 
