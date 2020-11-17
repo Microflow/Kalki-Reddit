@@ -26,15 +26,15 @@ https://codepen.io/Teeke/pen/XWKGLBN
 
 If you have your own hosted picture, you can change the background-image property in the CSS. look for code like this:
 
-header {
-  background-image: url('https://assets.codepen.io/577362/abstract-house.jpeg');
-  background-repeat: no-repeat;
-  background-size: 100% auto;
-  padding: 100px;
-  box-shadow: 0px 0px 9px 3px rgba(41,41,41,.25);
-  color: #ddd;
-  font-size: 40px;
-}
+    header {
+      background-image: url('https://assets.codepen.io/577362/abstract-house.jpeg');
+      background-repeat: no-repeat;
+      background-size: 100% auto;
+      padding: 100px;
+      box-shadow: 0px 0px 9px 3px rgba(41,41,41,.25);
+      color: #ddd;
+      font-size: 40px;
+    }
 
 and put your own hosted pic there. Be careful to leave the quotes and brackets around the pic. ('your-pic-here.jpeg');
 
